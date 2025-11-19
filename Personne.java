@@ -18,6 +18,7 @@ public class Personne
     public Personne()
     {
         // initialisation des variables d'instance
+        nom = "PLACEHOLDER";
         age = 18;
     }
 
